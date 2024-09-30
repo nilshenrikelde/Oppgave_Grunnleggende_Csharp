@@ -1,0 +1,14 @@
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.AssemblyInfoInputs.cache
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.AssemblyInfo.cs
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\bin\Debug\net8.0\Oppgave_Grunnleggende_Csharp.exe
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\bin\Debug\net8.0\Oppgave_Grunnleggende_Csharp.deps.json
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\bin\Debug\net8.0\Oppgave_Grunnleggende_Csharp.runtimeconfig.json
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\bin\Debug\net8.0\Oppgave_Grunnleggende_Csharp.dll
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\bin\Debug\net8.0\Oppgave_Grunnleggende_Csharp.pdb
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.dll
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\refint\Oppgave_Grunnleggende_Csharp.dll
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.pdb
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.genruntimeconfig.cache
+C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\ref\Oppgave_Grunnleggende_Csharp.dll
