@@ -12,3 +12,4 @@ C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\
 C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.pdb
 C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.genruntimeconfig.cache
 C:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\ref\Oppgave_Grunnleggende_Csharp.dll
+c:\Users\nilsh\Documents\Projects\Oppgave_Grunnleggende_Csharp\obj\Debug\net8.0\Oppgave_Grunnleggende_Csharp.sourcelink.json
